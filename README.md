@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">ForgeDesk</h1>
-<h3 align="center">Desktop GUI for Claude Code</h3>
+<h3 align="center">Desktop GUI for Claude Code & Codex</h3>
 
 <p align="center">
   <strong>Claude Code & Codex를 위한 네이티브 데스크탑 앱.</strong><br/>
